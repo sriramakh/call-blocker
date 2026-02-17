@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CallBlock</string>
+    <string name="title_blocked_numbers">Blocked Numbers</string>
+    <string name="title_blocked_prefixes">Blocked Prefixes</string>
+    <string name="title_blocked_contacts">Blocked Contacts</string>
+    <string name="title_call_history">Blocked Call History</string>
+    <string name="hint_phone_number">+14085551234</string>
+    <string name="hint_prefix">+140</string>
+    <string name="button_add_number">Block</string>
+    <string name="button_add_prefix">Block</string>
+    <string name="button_add_contact">Pick Contact to Block</string>
+    <string name="label_spam_db">Public spam database</string>
+    <string name="action_remove">Remove</string>
+    <string name="action_clear_history">Clear</string>
+    <string name="empty_blocked_numbers">No blocked numbers yet</string>
+    <string name="empty_blocked_prefixes">No blocked prefixes yet</string>
+    <string name="empty_blocked_contacts">No blocked contacts yet</string>
+    <string name="empty_call_history">No blocked calls recorded yet</string>
+    <string name="msg_number_blocked">%s blocked successfully</string>
+    <string name="msg_prefix_blocked">Prefix %s blocked successfully</string>
+    <string name="msg_contact_blocked">%s blocked successfully</string>
+    <string name="msg_item_removed">Item removed</string>
+    <string name="msg_history_cleared">Call history cleared</string>
+    <string name="title_device_call_log">Recent Calls</string>
+    <string name="empty_device_call_log">No recent calls found</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="msg_permission_needed">Call log permission is required</string>
+    <string name="tab_block_manual">Manual Block</string>
+    <string name="tab_block_from_call_log">Call Log Block</string>
+    <string name="tab_blocked_rules_history">Block Rule History</string>
+    <string name="tab_blocked_call_history">Call Block History</string>
+</resources>
+
